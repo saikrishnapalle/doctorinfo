@@ -1,0 +1,11 @@
+.red-asterisk{
+    color: red;
+}
+.input-error,select .input-error{
+    border-color: orangered;
+}
+.input-feedback {
+    color: #cc0000;
+    font-size: 12px;
+    margin-top: 5px;
+    }
